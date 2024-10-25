@@ -38,5 +38,6 @@
     "@types/express-validator": "^6.10.0"
   },
   "author": "Hanna Health",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": []
 }
